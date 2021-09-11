@@ -20,4 +20,6 @@ mvn clean install
 
 http://localhost:8080/product/list
 
+http://localhost:8080/demo/info
+
 即可看到后台日志打印的效果

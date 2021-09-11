@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  git.snippet.HelloServiceAutoConfiguration,\
+  git.snippet.MyLogAutoConfiguration
